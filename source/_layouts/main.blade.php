@@ -14,7 +14,7 @@
 
   <title>{{ $page->title ?? $page->siteTitle }}</title>
 
-  <link rel="icon" href="assets/images/favicon.ico">
+  <link rel="icon" href="_assets/images/favicon.ico">
   <link rel="canonical" href="{{ $page->getUrl() }}">
   <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 
