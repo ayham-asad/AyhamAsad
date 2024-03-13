@@ -99,7 +99,7 @@ return [
             [
                 'icon' => 'github',
                 'name' => 'GitHub',
-                'url' => 'https://github.com/sneaker01',
+                'url' => 'https://github.com/ayham-asad',
             ],
             [
                 'icon' => 'stackoverflow',
